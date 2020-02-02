@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Chilli VR Reader</title>
+    <script src="aframe.min.js"></script>
+    <script src="aframe-ar.js"></script>
+  </head>
+  <body style="margin: 0px; overflow: hidden;">
+    <a-scene embedded arjs>
+      <a-marker
+        type="pattern"
+        preset="custom"
+        url="./pattern-chilli_incone-01.patt"
+      >
+        <a-box position="0 0.5 0" material="color: yellow;"></a-box>
+      </a-marker>
+    </a-scene>
+  </body>
+</html>

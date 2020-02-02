@@ -1,4 +1,5 @@
 # vr-reader
+https://github.com/jeromeetienne/AR.js/blob/master/README.md
 
 ## Marker maker
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html

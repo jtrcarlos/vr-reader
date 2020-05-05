@@ -13,4 +13,4 @@ https://medium.com/@nicolcarpignoli/how-to-deliver-ar-on-the-web-only-with-a-qr-
 
 
 QR Code:
-![QR Chilli]: (https://raw.githubusercontent.com/jtrcarlos/vr-reader/master/qr-code.png =250)
+![QR Chilli]: (https://raw.githubusercontent.com/jtrcarlos/vr-reader/master/qr-code.png =250x)

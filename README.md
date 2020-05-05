@@ -14,4 +14,4 @@ https://medium.com/@nicolcarpignoli/how-to-deliver-ar-on-the-web-only-with-a-qr-
 
 QR Code:
 
-<img src="https://raw.githubusercontent.com/jtrcarlos/vr-reader/master/qr-code.png" width="48">
+<img src="https://raw.githubusercontent.com/jtrcarlos/vr-reader/master/qr-code.png" width="250">

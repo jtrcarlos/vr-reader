@@ -10,3 +10,9 @@ https://www.qrcode-monkey.com/
 ## Tuts
 https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc
 https://medium.com/@nicolcarpignoli/how-to-deliver-ar-on-the-web-only-with-a-qr-code-139bb90e82f1
+
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/jtrcarlos/vr-reader/master/qr-code.png "QR Chilli"
